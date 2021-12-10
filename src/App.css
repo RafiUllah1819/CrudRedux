@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.todo{
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
+  background-color: ghostwhite;
+  padding: 100px 20px;
+}
+.form-group{
+  padding-bottom: 6px;
+}
